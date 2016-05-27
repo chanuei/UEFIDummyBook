@@ -1,0 +1,19 @@
+# 欢迎来到UEFI建筑学校!
+#
+# 这里是UEFI星系建筑学校的基础设备中控室，这里的大部分设置一旦设好，你不需要经常重新设定。
+# 在使用"jekyll serve"启动建筑学校运转时，由于技术的原因，所有的设定不会自动立即生效。如果你做了中控室设定的改变，请重启服务。
+
+# Site settings
+title: 老男孩三寸丁的《UEFI星系之建筑与装修》
+email: chanuei@sina.com
+description: > # this means to ignore newlines until "baseurl:"
+  半梦半醒之间，浑然不觉，BIOS星系生活了几十年，UEFI与BIOS世界接壤处的日子，也已经过了好几年。突然一朝，接帝国最高统帅令，帝国臣民将全部迁居UEFI星系。再也不会回到BIOS星系。
+  本以为是殖民，没想到最后是全员移民。即是移民，就要按新星系的规则生存，否则就无法生成。在BIOS星系，多们已经习惯了住在漂亮的房子里。来到新的星系，新星系给了我们这系BIOS星系移民一块未开退的土地，让我们自己盖房子住，然而UEFI星系有着自己的建筑文化与相关法规。
+  适者生存，我们得学会新星系的建筑技艺才能很好的生存。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: chanuei
+github_username:  chanuei
+
+# Build settings
+markdown: kramdown
